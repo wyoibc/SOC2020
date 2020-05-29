@@ -28,7 +28,7 @@
 
 	- ``Commandline`` version of git
 	
-	- ``Sourcetree`` i.e. the GUI version of git
+	- ``GitKraken`` i.e. the GUI version of git
  
 
 
