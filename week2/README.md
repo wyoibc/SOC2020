@@ -8,7 +8,7 @@
 
 	- **Important note**: If you recently updated your OSX version, and are getting ``missing xcrun`` error messages, you need to install XCODE as well as the commandline tools. Try: ``xcode --install`` in the terminal.
 
-- Install [Sourcetree - A GUI ``git`` client](https://www.sourcetreeapp.com/) for your operating system 
+- Install [GitKraken - A GUI ``git`` client](https://www.gitkraken.com/) for your operating system 
 
 - Make a free GitHub account and keep your user/password combination handy
 
