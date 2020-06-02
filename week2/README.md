@@ -1,5 +1,5 @@
 ---
-title: June 02, 2020: Version Control, GitHub and More Markdown
+title: June 02, 2020; Version Control, GitHub and More Markdown
 author: Vikram Chhatre
 ---
 
@@ -92,9 +92,9 @@ Here is what we accomplished in today's session:
 
 Zoom video recordings are posted at two locations:
 
-	- Teton.uwyo.edu ``/project/inbre-train/summercode/``
+- Teton.uwyo.edu ``/project/inbre-train/summercode/``
 
-	- [Dropbox Folder](https://www.dropbox.com/sh/y9qevigabrw786z/AABb8HH5N-nm_M5LfDPWjLG9a?dl=0)
+- [Dropbox Folder](https://www.dropbox.com/sh/y9qevigabrw786z/AABb8HH5N-nm_M5LfDPWjLG9a?dl=0)
 
 ## 4. Further Reading Resources
 
