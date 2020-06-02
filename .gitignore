@@ -1,6 +1,10 @@
+mdown
 *.swp
 *.swo
 *swp
 .*swp
 week1/agenda.md
 agenda.md
+week1/*.swp
+week2/*.swp
+.gitignore

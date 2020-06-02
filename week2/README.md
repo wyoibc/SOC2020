@@ -1,4 +1,24 @@
-# June 02, 2020: Version Control, GitHub and More Markdown
+---
+title: June 02, 2020: Version Control, GitHub and More Markdown
+author: Vikram Chhatre
+---
+
+
+## Table of Contents
+
+- [1. Preparation](#preparation)
+
+- [2. Highlights of the Session](#highlights-of-the-session)
+
+- [3. Zoom Recordings](#zoom-recordings)
+
+- [4. Further Reading Resources](#further-reading-resources)
+
+
+<br><br>
+
+
+
 
 ## 1. Preparation
 
@@ -34,14 +54,51 @@
 
 ## 2. Highlights of the Session
 
-Will be updated after the session  
+Here is what we accomplished in today's session:
+
+- Converted a plain text file containing a short Git tutorial into Markdown format. Some of the new Markdown commands we learned included:
+
+	- Making hyperlinks
+
+	- Inserting images using html snippets
+
+	- Formatting code by applying backtick enclosures
+
+	- Using a Cascading Style Sheet to render the document in HTML format
+
+	- Using Pandoc document converter in combination with CSS
+
+- Using version control system, ``git``.
+
+	- Creating a new local repo
+
+	- Initializing it with git
+
+	- Staging files for deployment to GitHub
+
+	- Committing changes you have made to files
+
+	- Configuring git with your user/email, and empty GitHub repository address
+
+	- Pushing local changes to GitHub
+
+	- Resolving any issues encountered
 
 
-## 3. Zoom Recorded Video of the Session
+- All the data used for today's repo was made available on Dropbox via  link posted too Zoom chat as well as the Slack channel.
 
-Check here for a link to the video
+
+## 3. Zoom Recordings
+
+Zoom video recordings are posted at two locations:
+
+	- Teton.uwyo.edu ``/project/inbre-train/summercode/``
+
+	- [Dropbox Folder](https://www.dropbox.com/sh/y9qevigabrw786z/AABb8HH5N-nm_M5LfDPWjLG9a?dl=0)
 
 ## 4. Further Reading Resources
+
+
 
 
 
