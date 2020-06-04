@@ -6,3 +6,5 @@ Welcome to Wyoming INBRE Summer Code.  This is the official repository for the p
 - [Week 1 (5/26): Publishing with Markdown](week1/README.md)
 
 - [Week 2 (6/2): Version Control, GitHub and More Markdown](week2/README.md)
+
+- [Week 3 (6/9): GitKraken; Collaborative Work using git and GitHub](week3/README.md)
