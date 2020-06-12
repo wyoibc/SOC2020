@@ -1,3 +1,6 @@
+---
+title: Wyoming INBRE 2020 Summer of Code
+---
 
 ## Wyoming INBRE 2020 Summer of Code
 
@@ -7,4 +10,8 @@ Welcome to Wyoming INBRE Summer Code.  This is the official repository for the p
 
 - [Week 2 (6/2): Version Control, GitHub and More Markdown](week2/README.md)
 
-- [Week 3 (6/9): GitKraken; Collaborative Work using git and GitHub](week3/README.md)
+- [Week 3 (6/11): GitKraken; Collaborative Work using git and GitHub](week3/README.md)
+
+	- [Jump Directly to Git Collaboration Exercise](week3/README2.md)
+
+- [**Week 4 (6/16): Creating Your First R Package**](week4/README.md)

@@ -3,8 +3,12 @@ title: June 09, 2020; Collaborative Work on GitHub
 author: Vikram Chhatre
 ---
 
-## Under Development! Make Sure To Re-Read After 5pm Friday
+<br>
 
+## See [README2.md](README2.md) For the git/GitHub Collaboration Exercise.
+
+<br>
+<br>
 
 ## Table of Contents
 
@@ -42,7 +46,9 @@ author: Vikram Chhatre
 
 ## 2. Collaborative Work Using git and Github
 
+
 Collaborative work is where Git and GitHub come in very handy.  There are numerous scenarios as to how collaborative transactions might play out using these tools.  We will consider some of the common situations and navigate them using simple, easy to understand examples.
+ 
 
 - **Invite Collaborators**: Once you upload a repository to GitHub, how do you invite collaborators? How do you decide whether to make your project public or private?
 
@@ -68,7 +74,7 @@ Zoom video recordings will be posted to two locations:
 ## 4. Further Reading Resources
 
 
-
+Buffalo, Vince (2015). Bioinformatics Data Skills: Reproducible and Robust Research with Open Source Tools.  O'Reilly Publishers. **ISBN**: 978-1449367374.
 
 
 
