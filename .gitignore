@@ -8,3 +8,4 @@ agenda.md
 week1/*.swp
 week2/*.swp
 .gitignore
+*DS_Store
