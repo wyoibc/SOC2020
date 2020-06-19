@@ -14,4 +14,10 @@ Welcome to Wyoming INBRE Summer Code.  This is the official repository for the p
 
 	- [Jump Directly to Git Collaboration Exercise](week3/README2.md)
 
-- [**Week 4 (6/16): Creating Your First R Package**](week4/README.md)
+- [Week 4 (6/16): Creating Your First R Package](week4/README.md)
+
+	- [Jump Directly to Tutorial/Exercise](week4/README2.md)
+
+- [**Week 5 (6/23): Professional Quality Typesetting with LaTeX**](week5/README.md)
+
+
