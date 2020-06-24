@@ -18,6 +18,9 @@ Welcome to Wyoming INBRE Summer Code.  This is the official repository for the p
 
 	- [Jump Directly to Tutorial/Exercise](week4/README2.md)
 
-- [**Week 5 (6/23): Professional Quality Typesetting with LaTeX**](week5/README.md)
+- [Week 5 (6/23): Professional Quality Typesetting with LaTeX](week5/README.md)
+
+
+- [**Weeks 6 & 7 (6/30 & 7/7): Adopting Tidyverse**](week6-7/README.md)
 
 
